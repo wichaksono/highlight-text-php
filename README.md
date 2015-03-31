@@ -8,5 +8,7 @@ using PHP 5 above
 # example
 
 $text = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam dolorum eveniet hic aspernatur iusto accusantium sint explicabo, alias assumenda earum corporis expedita, vitae fugiat dicta qui voluptas! Hic, unde non!';
+<br>
 $search = 'Lorem ipsum dolor amet';
+<br>
 echo highlight($text,$search);
